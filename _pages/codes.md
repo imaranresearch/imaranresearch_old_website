@@ -2,7 +2,7 @@
 layout: page
 title: codes
 permalink: /codes/
-description: A growing collection of your cool projects.
+description: A growing collection of your cool codes.
 nav: true
 display_categories: [work, fun]
 horizontal: false
