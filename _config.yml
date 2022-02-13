@@ -105,7 +105,7 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  projects:
+  Research:
     output: true
     permalink: /projects/:path/
 
