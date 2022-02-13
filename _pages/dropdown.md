@@ -1,8 +1,8 @@
 ---
 layout: page
 title: submenus
-nav: true
-dropdown: true
+nav: flase
+dropdown: flase
 children: 
     - title: publications
       permalink: /publications/
