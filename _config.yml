@@ -108,7 +108,7 @@ collections:
     permalink: /projects/:path/
   codes:
     output: true
-    permalink: /codes/:path/
+    permalink: /projects/:path/
 
 news_limit: 5
 
