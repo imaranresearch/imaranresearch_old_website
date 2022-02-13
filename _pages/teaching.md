@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /codes/
 title: Codes and Softwares
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
