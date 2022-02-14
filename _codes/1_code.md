@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: code 1
 description: Test code
 img: assets/img/12.jpg
 importance: 1
